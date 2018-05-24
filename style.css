@@ -1,0 +1,28 @@
+*{
+    margin: 0 auto;
+}
+
+#wrapper {
+    width: 970px;
+}
+
+#wrapper table {
+    width: 100%;
+    margin: 0px 0px 20px 0px;
+    border: 1px solid black;
+}
+
+#wrapper table th, #wrapper table td {
+    border: 1px solid black;
+}
+
+#wrapper h1 {
+    border-bottom: 1px solid black;
+    margin-bottom: 10px;
+}
+
+#wrapper form {
+    text-align: right;
+    margin: 0;
+    width: 300px;
+}
